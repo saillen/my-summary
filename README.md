@@ -4,7 +4,7 @@
 
 ## 技术类目录分类
 
-1. [编程基础索引](./1.program-basic/README.md)
+1. [编程基础](./1.program-basic/README.md)
    1. 编程基础 -- 数据结构
    2. 编程基础 -- 算法思路
    3. 编程提高 -- LeetCode 刷题总结
